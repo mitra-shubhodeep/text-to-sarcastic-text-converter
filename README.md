@@ -7,4 +7,4 @@ Run the sarcasmtext.exe to open the program and enter your text
 
 eg. Input:  hello
 
-    Output: hElLo
+   Output: hElLo
