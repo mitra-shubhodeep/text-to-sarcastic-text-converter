@@ -5,6 +5,4 @@ This is a GUI based program made using Tkinter library of python and demonstrate
 
 Run the sarcasmtext.exe to open the program and enter your text
 
-eg. Input:  hello
-
-   Output: hElLo
+eg. Input:  hello, Output: hElLo
